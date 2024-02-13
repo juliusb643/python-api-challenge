@@ -5,7 +5,7 @@ For this Module 6 Challenge, I was able to complete this by using Python and cre
 
 I have several images shown in the "output_data" folder, which is inside of "WeatherPy" which is the results of my work for WeatherPy (section 1 of the homework)
 
-This image is for VacationPy, which may not show up on GitHub. This is the map that showed Step 1, every city in the DataFrame and the size of the dots relate to Humidity
+This image is for VacationPy, which may not show up on GitHub. This is the map that showed Step 1, every city in the DataFrame and the size of the dots relative to Humidity
 ![image](https://github.com/juliusb643/python-api-challenge/assets/153868865/7e06da34-e72b-4882-b9dc-de175f9f40cb)
 
 I'm also uploading this image, which shows my map for Step 5 of VacationPy.
