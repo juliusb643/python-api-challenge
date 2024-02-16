@@ -10,9 +10,9 @@ This image is for VacationPy, which does not show up on GitHub. This is the map 
 
 These two images are also for VacationPy, which do not show up on GitHub. This is the map that shows Step 5. My first image shows the map with all of the cities and their dots on the map. The second image shows what the new hover looks like, which includes the name of the hotel and the country!
 
-![download](https://github.com/juliusb643/python-api-challenge/assets/153868865/1c9de20b-4a0b-497a-b526-333634b5de26)
+![15](https://github.com/juliusb643/python-api-challenge/assets/153868865/d366588e-beb4-4cb9-ad52-41ee95149cbf)
 
+![13](https://github.com/juliusb643/python-api-challenge/assets/153868865/1f859c21-a680-422f-8b15-ac36dd70e037)
 
-![download](https://github.com/juliusb643/python-api-challenge/assets/153868865/9ddb9326-3d17-43b9-b48e-d7bd3e2269a5)
 
 
